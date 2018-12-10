@@ -1,5 +1,6 @@
 body {
 	margin: 0px;
+	background-color: #FFF4DC;
 }
 
 .both {
@@ -37,8 +38,8 @@ body {
 h1 {
 	font-family: fantasy;
 	font-size: 3em;
-	border-bottom: 2px solid pink;
-	border-right: 2px solid pink;
+	border-bottom: 2px solid #D5970E;
+	border-right: 2px solid #D5970E;
 	width: 400px;
 	text-align: center;
 	box-shadow: 4px 4px 5px #888888;
